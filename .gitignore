@@ -1,3 +1,7 @@
+npfer
+npfer.bin
+npfctl.c.*
+
 # Object files
 *.o
 *.ko
